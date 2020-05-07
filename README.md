@@ -21,7 +21,7 @@ cd docs
 
 ## 2. Sections
 
-1. [Agile methodology for developers](/agile#readme): Documentation on the agile process
+1. [Agile methodology for developers](/las-docs/agile#readme): Documentation on the agile process
 2. [Git](/git#readme): Git usage and practices
 3. [Standardization](/standardization#readme): Standards for software development
 4. [Style Guide](/style-guide#readme): Style guide for coding, documentation, etc.
