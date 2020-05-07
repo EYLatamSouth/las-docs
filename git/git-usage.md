@@ -6,7 +6,7 @@ A reference document for commonly used git commands, as well as general git advi
 - [1. Set up an SSH key](#1-set-up-an-ssh-key)
 - [2. Git Commands](#2-git-commands)
   - [2.1 Command ```git log```](#21-command-git-log)
-    - [2.2 A note about rewriting history](#22-a-note-about-rewriting-history)
+  - [2.2 A note about rewriting history](#22-a-note-about-rewriting-history)
   - [2.3 Command ```git rebase```](#23-command-git-rebase)
   - [2.3 Command ```git reset```](#23-command-git-reset)
   - [2.4 Soft resets](#24-soft-resets)
@@ -36,7 +36,7 @@ Explanation of useful git commands.
 Shows all commits on your current branch. Note the hashes next to each commit, those are unique to
 each commit and identifies each commit.
 
-#### 2.2 A note about rewriting history
+### 2.2 A note about rewriting history
 
 When you do anything on git beyond adding commits, you are rewriting history (e.g., removing
 commits, force pushing, squashing). Generally, you should never do this on a branch that multiple
