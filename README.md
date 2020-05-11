@@ -3,30 +3,14 @@
 
 Home for general best practices & developer workflow documentation. Any and all additions to this documentation should come in the form of PR‘s. If you have a thought for a doc but you‘re unsure or have questions, please open an issue.
 
-<!-- omit in toc -->
 ## Sections
-
-- [1. Getting Started](#1-getting-started)
-- [2. Sections](#2-sections)
-- [3. Contributing Guidelines](#3-contributing-guidelines)
-
-## 1. Getting Started
-
-Clone the repo.
-
-```sh
-git clone https://github.com/EYLatamSouth/docs
-cd docs
-```
-
-## 2. Sections
 
 1. [Agile methodology for developers](/las-docs/agile#readme): Documentation on the agile process
 2. [Git](/las-docs/git#readme): Git usage and practices
 3. [Standardization](/las-docs/standardization#readme): Standards for software development
 4. [Style Guide](/las-docs/style-guide#readme): Style guide for coding, documentation, etc.
 
-## 3. Contributing Guidelines
+## Contributing Guidelines
 
 - Open a pull request with the new doc.
 - Always use markdown.
