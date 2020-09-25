@@ -39,7 +39,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests and basic usage_optional_
+## Running the tests and basic usage _optional_
 
 Explain how to run the automated tests for this system
 
