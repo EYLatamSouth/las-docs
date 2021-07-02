@@ -5,10 +5,9 @@ Home for general best practices & developer workflow documentation. Any and all 
 
 ## Sections
 
-1. [Agile methodology for developers](/las-docs/agile#readme): Documentation on the agile process
-2. [Git](/las-docs/git#readme): Git usage and practices
-3. [Standardization](/las-docs/standardization#readme): Standards for software development
-4. [Style Guide](/las-docs/style-guide#readme): Style guide for coding, documentation, etc.
+1. [Agile methodology for developers](agile/readme): Documentation on the agile process
+2. [Git](git/readme): Git usage and practices
+3. [Style Guide](style-guide/readme): Style guide for coding, documentation, etc.
 
 ## Contributing Guidelines
 
